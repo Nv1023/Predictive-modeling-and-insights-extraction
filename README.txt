@@ -1,4 +1,4 @@
- ## 📊 Data Science & Machine Learning Project
+## 📊 Data Science & Machine Learning Project
 ## 📌 Project Overview
 
 This project demonstrates the use of data science and machine learning techniques for predictive modeling and insights extraction. The workflow covers data preprocessing, exploratory data analysis (EDA), model building, and evaluation.
